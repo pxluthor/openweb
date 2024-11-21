@@ -1,0 +1,9 @@
+.env
+venv/
+qdrantdb/
+Qdrant/
+_Suporte.pdf
+db/
+arquivos/
+aplications/
+__pycache__/
